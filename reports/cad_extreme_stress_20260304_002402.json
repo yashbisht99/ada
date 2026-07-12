@@ -1,0 +1,639 @@
+{
+  "summary": {
+    "run_id": "20260304_002402",
+    "started_at": "2026-03-04T00:24:02.340557",
+    "project_root": "cad_test_output/extreme_stress_20260304_002402",
+    "total_cases": 9,
+    "success_cases": 9,
+    "failed_cases": 0,
+    "operation_failures": 0,
+    "total_generation_seconds": 262.624,
+    "max_generation_seconds": 68.76,
+    "min_generation_seconds": 4.44,
+    "ended_at": "2026-03-04T00:29:11.824559",
+    "avg_generation_seconds": 29.18
+  },
+  "results": [
+    {
+      "case": "simple_cube_baseline",
+      "prompt": "Create a simple cube 40x40x40mm with one center hole 8mm",
+      "generation_seconds": 4.979,
+      "ok": true,
+      "session_id": "cad_88f9e32509",
+      "part_count": 1,
+      "validation_status": "pass",
+      "warnings": [],
+      "stl_path": "cad_test_output/extreme_stress_20260304_002402/cad/sessions/cad_88f9e32509/exports/assembly.stl",
+      "stl_bytes": 102284,
+      "operations": [
+        {
+          "name": "explode_max",
+          "ok": true,
+          "seconds": 0.009,
+          "error": ""
+        },
+        {
+          "name": "explode_reset",
+          "ok": true,
+          "seconds": 0.008,
+          "error": ""
+        },
+        {
+          "name": "constraint",
+          "ok": true,
+          "seconds": 0.005,
+          "error": ""
+        },
+        {
+          "name": "edit_fragment",
+          "ok": true,
+          "seconds": 2.235,
+          "error": ""
+        },
+        {
+          "name": "undo",
+          "ok": true,
+          "seconds": 0.001,
+          "error": ""
+        },
+        {
+          "name": "redo",
+          "ok": true,
+          "seconds": 0.001,
+          "error": ""
+        },
+        {
+          "name": "iterate",
+          "ok": true,
+          "seconds": 2.122,
+          "error": ""
+        },
+        {
+          "name": "export_stl",
+          "ok": true,
+          "seconds": 0.004,
+          "error": ""
+        },
+        {
+          "name": "validate",
+          "ok": true,
+          "seconds": 0.005,
+          "error": ""
+        }
+      ],
+      "errors": []
+    },
+    {
+      "case": "precision_bracket",
+      "prompt": "Design a sturdy mounting bracket 140x90x50mm with 8 mounting holes, reinforcement ribs, and 0.2mm tolerance",
+      "generation_seconds": 6.726,
+      "ok": true,
+      "session_id": "cad_5131966601",
+      "part_count": 3,
+      "validation_status": "pass",
+      "warnings": [],
+      "stl_path": "cad_test_output/extreme_stress_20260304_002402/cad/sessions/cad_5131966601/exports/assembly.stl",
+      "stl_bytes": 112684,
+      "operations": [
+        {
+          "name": "explode_max",
+          "ok": true,
+          "seconds": 0.013,
+          "error": ""
+        },
+        {
+          "name": "explode_reset",
+          "ok": true,
+          "seconds": 0.012,
+          "error": ""
+        },
+        {
+          "name": "constraint",
+          "ok": true,
+          "seconds": 0.008,
+          "error": ""
+        },
+        {
+          "name": "edit_fragment",
+          "ok": true,
+          "seconds": 2.308,
+          "error": ""
+        },
+        {
+          "name": "undo",
+          "ok": true,
+          "seconds": 0.002,
+          "error": ""
+        },
+        {
+          "name": "redo",
+          "ok": true,
+          "seconds": 0.001,
+          "error": ""
+        },
+        {
+          "name": "iterate",
+          "ok": true,
+          "seconds": 2.135,
+          "error": ""
+        },
+        {
+          "name": "export_stl",
+          "ok": true,
+          "seconds": 0.006,
+          "error": ""
+        },
+        {
+          "name": "validate",
+          "ok": true,
+          "seconds": 0.007,
+          "error": ""
+        }
+      ],
+      "errors": []
+    },
+    {
+      "case": "gearbox_12",
+      "prompt": "Design exactly 12 parts for a professional gearbox assembly with drive shaft, idler gear, bearing blocks, coupler, and vent panel",
+      "generation_seconds": 26.753,
+      "ok": true,
+      "session_id": "cad_48fd694ddb",
+      "part_count": 12,
+      "validation_status": "pass",
+      "warnings": [],
+      "stl_path": "cad_test_output/extreme_stress_20260304_002402/cad/sessions/cad_48fd694ddb/exports/assembly.stl",
+      "stl_bytes": 1753084,
+      "operations": [
+        {
+          "name": "explode_max",
+          "ok": true,
+          "seconds": 0.111,
+          "error": ""
+        },
+        {
+          "name": "explode_reset",
+          "ok": true,
+          "seconds": 0.12,
+          "error": ""
+        },
+        {
+          "name": "constraint",
+          "ok": true,
+          "seconds": 0.067,
+          "error": ""
+        },
+        {
+          "name": "edit_fragment",
+          "ok": true,
+          "seconds": 2.39,
+          "error": ""
+        },
+        {
+          "name": "undo",
+          "ok": true,
+          "seconds": 0.005,
+          "error": ""
+        },
+        {
+          "name": "redo",
+          "ok": true,
+          "seconds": 0.005,
+          "error": ""
+        },
+        {
+          "name": "iterate",
+          "ok": true,
+          "seconds": 2.288,
+          "error": ""
+        },
+        {
+          "name": "export_stl",
+          "ok": true,
+          "seconds": 0.051,
+          "error": ""
+        },
+        {
+          "name": "validate",
+          "ok": true,
+          "seconds": 0.066,
+          "error": ""
+        }
+      ],
+      "errors": []
+    },
+    {
+      "case": "robotic_wrist_16",
+      "prompt": "Design exactly 16 parts for an advanced robotic wrist actuator assembly with mount plate, shaft, lid, standoffs, and reinforcement ribs",
+      "generation_seconds": 35.927,
+      "ok": true,
+      "session_id": "cad_e14de914ba",
+      "part_count": 16,
+      "validation_status": "pass",
+      "warnings": [],
+      "stl_path": "cad_test_output/extreme_stress_20260304_002402/cad/sessions/cad_e14de914ba/exports/assembly.stl",
+      "stl_bytes": 1833884,
+      "operations": [
+        {
+          "name": "explode_max",
+          "ok": true,
+          "seconds": 0.144,
+          "error": ""
+        },
+        {
+          "name": "explode_reset",
+          "ok": true,
+          "seconds": 0.143,
+          "error": ""
+        },
+        {
+          "name": "constraint",
+          "ok": true,
+          "seconds": 0.077,
+          "error": ""
+        },
+        {
+          "name": "edit_fragment",
+          "ok": true,
+          "seconds": 2.471,
+          "error": ""
+        },
+        {
+          "name": "undo",
+          "ok": true,
+          "seconds": 0.007,
+          "error": ""
+        },
+        {
+          "name": "redo",
+          "ok": true,
+          "seconds": 0.006,
+          "error": ""
+        },
+        {
+          "name": "iterate",
+          "ok": true,
+          "seconds": 2.402,
+          "error": ""
+        },
+        {
+          "name": "export_stl",
+          "ok": true,
+          "seconds": 0.062,
+          "error": ""
+        },
+        {
+          "name": "validate",
+          "ok": true,
+          "seconds": 0.075,
+          "error": ""
+        }
+      ],
+      "errors": []
+    },
+    {
+      "case": "industrial_actuator_20",
+      "prompt": "Design exactly 20 parts for an industrial actuator transmission housing with high torque gearing, shafts, and service cover",
+      "generation_seconds": 44.443,
+      "ok": true,
+      "session_id": "cad_7500021807",
+      "part_count": 20,
+      "validation_status": "pass",
+      "warnings": [],
+      "stl_path": "cad_test_output/extreme_stress_20260304_002402/cad/sessions/cad_7500021807/exports/assembly.stl",
+      "stl_bytes": 1842684,
+      "operations": [
+        {
+          "name": "explode_max",
+          "ok": true,
+          "seconds": 0.142,
+          "error": ""
+        },
+        {
+          "name": "explode_reset",
+          "ok": true,
+          "seconds": 0.141,
+          "error": ""
+        },
+        {
+          "name": "constraint",
+          "ok": true,
+          "seconds": 0.074,
+          "error": ""
+        },
+        {
+          "name": "edit_fragment",
+          "ok": true,
+          "seconds": 2.332,
+          "error": ""
+        },
+        {
+          "name": "undo",
+          "ok": true,
+          "seconds": 0.008,
+          "error": ""
+        },
+        {
+          "name": "redo",
+          "ok": true,
+          "seconds": 0.008,
+          "error": ""
+        },
+        {
+          "name": "iterate",
+          "ok": true,
+          "seconds": 2.476,
+          "error": ""
+        },
+        {
+          "name": "export_stl",
+          "ok": true,
+          "seconds": 0.063,
+          "error": ""
+        },
+        {
+          "name": "validate",
+          "ok": true,
+          "seconds": 0.077,
+          "error": ""
+        }
+      ],
+      "errors": []
+    },
+    {
+      "case": "arc_reactor_24",
+      "prompt": "Create exactly 24 parts for a cinematic arc reactor core assembly with high detail, energy channels, coil posts, and emitter pins",
+      "generation_seconds": 68.76,
+      "ok": true,
+      "session_id": "cad_a1a9156058",
+      "part_count": 24,
+      "validation_status": "pass",
+      "warnings": [],
+      "stl_path": "cad_test_output/extreme_stress_20260304_002402/cad/sessions/cad_a1a9156058/exports/assembly.stl",
+      "stl_bytes": 1342684,
+      "operations": [
+        {
+          "name": "explode_max",
+          "ok": true,
+          "seconds": 0.168,
+          "error": ""
+        },
+        {
+          "name": "explode_reset",
+          "ok": true,
+          "seconds": 0.149,
+          "error": ""
+        },
+        {
+          "name": "constraint",
+          "ok": true,
+          "seconds": 0.07,
+          "error": ""
+        },
+        {
+          "name": "edit_fragment",
+          "ok": true,
+          "seconds": 2.985,
+          "error": ""
+        },
+        {
+          "name": "undo",
+          "ok": true,
+          "seconds": 0.009,
+          "error": ""
+        },
+        {
+          "name": "redo",
+          "ok": true,
+          "seconds": 0.01,
+          "error": ""
+        },
+        {
+          "name": "iterate",
+          "ok": true,
+          "seconds": 2.914,
+          "error": ""
+        },
+        {
+          "name": "export_stl",
+          "ok": true,
+          "seconds": 0.053,
+          "error": ""
+        },
+        {
+          "name": "validate",
+          "ok": true,
+          "seconds": 0.069,
+          "error": ""
+        }
+      ],
+      "errors": []
+    },
+    {
+      "case": "micro_precision",
+      "prompt": "Design a micro enclosure 8x8x4mm with 4 holes and thin lid for precision electronics",
+      "generation_seconds": 4.44,
+      "ok": true,
+      "session_id": "cad_97251d6c29",
+      "part_count": 2,
+      "validation_status": "pass",
+      "warnings": [],
+      "stl_path": "cad_test_output/extreme_stress_20260304_002402/cad/sessions/cad_97251d6c29/exports/assembly.stl",
+      "stl_bytes": 205084,
+      "operations": [
+        {
+          "name": "explode_max",
+          "ok": true,
+          "seconds": 0.014,
+          "error": ""
+        },
+        {
+          "name": "explode_reset",
+          "ok": true,
+          "seconds": 0.014,
+          "error": ""
+        },
+        {
+          "name": "constraint",
+          "ok": true,
+          "seconds": 0.009,
+          "error": ""
+        },
+        {
+          "name": "edit_fragment",
+          "ok": true,
+          "seconds": 2.314,
+          "error": ""
+        },
+        {
+          "name": "undo",
+          "ok": true,
+          "seconds": 0.001,
+          "error": ""
+        },
+        {
+          "name": "redo",
+          "ok": true,
+          "seconds": 0.001,
+          "error": ""
+        },
+        {
+          "name": "iterate",
+          "ok": true,
+          "seconds": 2.826,
+          "error": ""
+        },
+        {
+          "name": "export_stl",
+          "ok": true,
+          "seconds": 0.007,
+          "error": ""
+        },
+        {
+          "name": "validate",
+          "ok": true,
+          "seconds": 0.009,
+          "error": ""
+        }
+      ],
+      "errors": []
+    },
+    {
+      "case": "very_large_enclosure",
+      "prompt": "Design an enclosure 800x600x400mm with lid, vent slots, mounting flange and 16 parts",
+      "generation_seconds": 36.261,
+      "ok": true,
+      "session_id": "cad_7684695eae",
+      "part_count": 16,
+      "validation_status": "warn",
+      "warnings": [],
+      "stl_path": "cad_test_output/extreme_stress_20260304_002402/cad/sessions/cad_7684695eae/exports/assembly.stl",
+      "stl_bytes": 1714684,
+      "operations": [
+        {
+          "name": "explode_max",
+          "ok": true,
+          "seconds": 0.12,
+          "error": ""
+        },
+        {
+          "name": "explode_reset",
+          "ok": true,
+          "seconds": 0.123,
+          "error": ""
+        },
+        {
+          "name": "constraint",
+          "ok": true,
+          "seconds": 0.066,
+          "error": ""
+        },
+        {
+          "name": "edit_fragment",
+          "ok": true,
+          "seconds": 2.263,
+          "error": ""
+        },
+        {
+          "name": "undo",
+          "ok": true,
+          "seconds": 0.008,
+          "error": ""
+        },
+        {
+          "name": "redo",
+          "ok": true,
+          "seconds": 0.007,
+          "error": ""
+        },
+        {
+          "name": "iterate",
+          "ok": true,
+          "seconds": 2.36,
+          "error": ""
+        },
+        {
+          "name": "export_stl",
+          "ok": true,
+          "seconds": 0.055,
+          "error": ""
+        },
+        {
+          "name": "validate",
+          "ok": true,
+          "seconds": 0.072,
+          "error": ""
+        }
+      ],
+      "errors": []
+    },
+    {
+      "case": "ambiguous_input",
+      "prompt": "make something mechanical and advanced and stable for motion and mounting with constraints",
+      "generation_seconds": 34.335,
+      "ok": true,
+      "session_id": "cad_d40480f4a8",
+      "part_count": 15,
+      "validation_status": "pass",
+      "warnings": [],
+      "stl_path": "cad_test_output/extreme_stress_20260304_002402/cad/sessions/cad_d40480f4a8/exports/assembly.stl",
+      "stl_bytes": 1831684,
+      "operations": [
+        {
+          "name": "explode_max",
+          "ok": true,
+          "seconds": 0.125,
+          "error": ""
+        },
+        {
+          "name": "explode_reset",
+          "ok": true,
+          "seconds": 0.155,
+          "error": ""
+        },
+        {
+          "name": "constraint",
+          "ok": true,
+          "seconds": 0.083,
+          "error": ""
+        },
+        {
+          "name": "edit_fragment",
+          "ok": true,
+          "seconds": 2.425,
+          "error": ""
+        },
+        {
+          "name": "undo",
+          "ok": true,
+          "seconds": 0.024,
+          "error": ""
+        },
+        {
+          "name": "redo",
+          "ok": true,
+          "seconds": 0.006,
+          "error": ""
+        },
+        {
+          "name": "iterate",
+          "ok": true,
+          "seconds": 2.522,
+          "error": ""
+        },
+        {
+          "name": "export_stl",
+          "ok": true,
+          "seconds": 0.057,
+          "error": ""
+        },
+        {
+          "name": "validate",
+          "ok": true,
+          "seconds": 0.068,
+          "error": ""
+        }
+      ],
+      "errors": []
+    }
+  ]
+}
