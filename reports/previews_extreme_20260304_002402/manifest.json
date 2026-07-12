@@ -1,0 +1,65 @@
+[
+  {
+    "case": "simple_cube_baseline",
+    "session_id": "cad_88f9e32509",
+    "image": "reports/previews_extreme_20260304_002402/simple_cube_baseline.png",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "case": "precision_bracket",
+    "session_id": "cad_5131966601",
+    "image": "reports/previews_extreme_20260304_002402/precision_bracket.png",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "case": "gearbox_12",
+    "session_id": "cad_48fd694ddb",
+    "image": "reports/previews_extreme_20260304_002402/gearbox_12.png",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "case": "robotic_wrist_16",
+    "session_id": "cad_e14de914ba",
+    "image": "reports/previews_extreme_20260304_002402/robotic_wrist_16.png",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "case": "industrial_actuator_20",
+    "session_id": "cad_7500021807",
+    "image": "reports/previews_extreme_20260304_002402/industrial_actuator_20.png",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "case": "arc_reactor_24",
+    "session_id": "cad_a1a9156058",
+    "image": "reports/previews_extreme_20260304_002402/arc_reactor_24.png",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "case": "micro_precision",
+    "session_id": "cad_97251d6c29",
+    "image": "reports/previews_extreme_20260304_002402/micro_precision.png",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "case": "very_large_enclosure",
+    "session_id": "cad_7684695eae",
+    "image": "reports/previews_extreme_20260304_002402/very_large_enclosure.png",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "case": "ambiguous_input",
+    "session_id": "cad_d40480f4a8",
+    "image": "reports/previews_extreme_20260304_002402/ambiguous_input.png",
+    "ok": true,
+    "error": ""
+  }
+]
