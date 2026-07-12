@@ -1,0 +1,547 @@
+{
+  "geometry_checks": [
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_373e0601",
+      "ok": true,
+      "detail": "size=4684"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_373e0601",
+      "ok": true,
+      "detail": "volume=9598.4186"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_373e0601",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_704ffa7c",
+      "ok": true,
+      "detail": "size=3084"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_704ffa7c",
+      "ok": true,
+      "detail": "volume=2223.5471"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_704ffa7c",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_9761729f",
+      "ok": true,
+      "detail": "size=3084"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_9761729f",
+      "ok": true,
+      "detail": "volume=2223.5471"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_9761729f",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_cd70e476",
+      "ok": true,
+      "detail": "size=62884"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_cd70e476",
+      "ok": true,
+      "detail": "volume=11258.5692"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_cd70e476",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_a575b390",
+      "ok": true,
+      "detail": "size=62884"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_a575b390",
+      "ok": true,
+      "detail": "volume=11258.5692"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_a575b390",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_1ca7221a",
+      "ok": true,
+      "detail": "size=141284"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_1ca7221a",
+      "ok": true,
+      "detail": "volume=922.8570"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_1ca7221a",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_2545bd17",
+      "ok": true,
+      "detail": "size=470884"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_2545bd17",
+      "ok": true,
+      "detail": "volume=1631.1788"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_2545bd17",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_95f5e548",
+      "ok": true,
+      "detail": "size=454684"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_95f5e548",
+      "ok": true,
+      "detail": "volume=1008.2609"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_95f5e548",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_b2c1ab64",
+      "ok": true,
+      "detail": "size=127684"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_b2c1ab64",
+      "ok": true,
+      "detail": "volume=4827.0879"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_b2c1ab64",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_c3961b6e",
+      "ok": true,
+      "detail": "size=127684"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_c3961b6e",
+      "ok": true,
+      "detail": "volume=4827.0879"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_c3961b6e",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_893d4a3b",
+      "ok": true,
+      "detail": "size=127684"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_893d4a3b",
+      "ok": true,
+      "detail": "volume=2315.3543"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_893d4a3b",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_f7735a72",
+      "ok": true,
+      "detail": "size=127684"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_f7735a72",
+      "ok": true,
+      "detail": "volume=2315.3543"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_f7735a72",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_c8736674",
+      "ok": true,
+      "detail": "size=3884"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_c8736674",
+      "ok": true,
+      "detail": "volume=1190.0563"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_c8736674",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_d9263839",
+      "ok": true,
+      "detail": "size=103084"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_d9263839",
+      "ok": true,
+      "detail": "volume=12332.6655"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_d9263839",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_bf6d2da2",
+      "ok": true,
+      "detail": "size=26284"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_bf6d2da2",
+      "ok": true,
+      "detail": "volume=317.3234"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_bf6d2da2",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_009fcae6",
+      "ok": true,
+      "detail": "size=26284"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_009fcae6",
+      "ok": true,
+      "detail": "volume=317.3234"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_009fcae6",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_4f710169",
+      "ok": true,
+      "detail": "size=26284"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_4f710169",
+      "ok": true,
+      "detail": "volume=317.3234"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_4f710169",
+      "ok": true,
+      "detail": "mesh watertight check"
+    },
+    {
+      "name": "stl_nonempty",
+      "part_id": "part_1ce10e7f",
+      "ok": true,
+      "detail": "size=26284"
+    },
+    {
+      "name": "volume_positive",
+      "part_id": "part_1ce10e7f",
+      "ok": true,
+      "detail": "volume=317.3234"
+    },
+    {
+      "name": "watertight",
+      "part_id": "part_1ce10e7f",
+      "ok": true,
+      "detail": "mesh watertight check"
+    }
+  ],
+  "printability_checks": [
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_373e0601",
+      "ok": true,
+      "detail": "min_extent_mm=2.400"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_373e0601",
+      "ok": true,
+      "detail": "max_extent_mm=117.000"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_704ffa7c",
+      "ok": true,
+      "detail": "min_extent_mm=7.000"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_704ffa7c",
+      "ok": true,
+      "detail": "max_extent_mm=54.600"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_9761729f",
+      "ok": true,
+      "detail": "min_extent_mm=7.000"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_9761729f",
+      "ok": true,
+      "detail": "max_extent_mm=54.600"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_cd70e476",
+      "ok": true,
+      "detail": "min_extent_mm=20.988"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_cd70e476",
+      "ok": true,
+      "detail": "max_extent_mm=40.000"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_a575b390",
+      "ok": true,
+      "detail": "min_extent_mm=20.988"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_a575b390",
+      "ok": true,
+      "detail": "max_extent_mm=40.000"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_1ca7221a",
+      "ok": true,
+      "detail": "min_extent_mm=22.093"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_1ca7221a",
+      "ok": true,
+      "detail": "max_extent_mm=52.500"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_2545bd17",
+      "ok": true,
+      "detail": "min_extent_mm=5.000"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_2545bd17",
+      "ok": true,
+      "detail": "max_extent_mm=26.320"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_95f5e548",
+      "ok": true,
+      "detail": "min_extent_mm=4.500"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_95f5e548",
+      "ok": true,
+      "detail": "max_extent_mm=21.482"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_b2c1ab64",
+      "ok": true,
+      "detail": "min_extent_mm=14.000"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_b2c1ab64",
+      "ok": true,
+      "detail": "max_extent_mm=26.000"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_c3961b6e",
+      "ok": true,
+      "detail": "min_extent_mm=14.000"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_c3961b6e",
+      "ok": true,
+      "detail": "max_extent_mm=26.000"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_893d4a3b",
+      "ok": true,
+      "detail": "min_extent_mm=10.000"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_893d4a3b",
+      "ok": true,
+      "detail": "max_extent_mm=19.110"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_f7735a72",
+      "ok": true,
+      "detail": "min_extent_mm=10.000"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_f7735a72",
+      "ok": true,
+      "detail": "max_extent_mm=19.110"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_c8736674",
+      "ok": true,
+      "detail": "min_extent_mm=2.040"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_c8736674",
+      "ok": true,
+      "detail": "max_extent_mm=59.800"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_d9263839",
+      "ok": true,
+      "detail": "min_extent_mm=3.660"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_d9263839",
+      "ok": true,
+      "detail": "max_extent_mm=96.200"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_bf6d2da2",
+      "ok": true,
+      "detail": "min_extent_mm=6.235"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_bf6d2da2",
+      "ok": true,
+      "detail": "max_extent_mm=11.000"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_009fcae6",
+      "ok": true,
+      "detail": "min_extent_mm=6.235"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_009fcae6",
+      "ok": true,
+      "detail": "max_extent_mm=11.000"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_4f710169",
+      "ok": true,
+      "detail": "min_extent_mm=6.235"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_4f710169",
+      "ok": true,
+      "detail": "max_extent_mm=11.000"
+    },
+    {
+      "name": "min_dimension_proxy",
+      "part_id": "part_1ce10e7f",
+      "ok": true,
+      "detail": "min_extent_mm=6.235"
+    },
+    {
+      "name": "unsupported_span_proxy",
+      "part_id": "part_1ce10e7f",
+      "ok": true,
+      "detail": "max_extent_mm=11.000"
+    }
+  ],
+  "status": "pass"
+}
